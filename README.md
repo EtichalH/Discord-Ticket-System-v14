@@ -21,7 +21,7 @@
 - Users click **Open Ticket** → modal collects subject + description → channel is created in your **open** category.
 - Staff tools:
   - Buttons: **Claim**, **Rename**, **Lock**, **Archive** and **Close**
-  - Commands: `/add`, `/remove`, `/claim`, `/unclaim`, `/lock`, `/unlock`
+  - Commands: `/add`, `/remove`, `/claim`, `/unclaim`, `/lock`, `/unlock` and `/stats`
 - Closing moves the channel to the **closed** category and posts an **HTML transcript** (also logged).
 
 ## Notes
